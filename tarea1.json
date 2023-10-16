@@ -1,0 +1,1226 @@
+[
+ {
+  "EDGAR Country Code": "AFG",
+  "Country": "Afghanistan",
+  "local": "[3393911,67709953]",
+  "total": 15.48827103
+ },
+ {
+  "EDGAR Country Code": "ALB",
+  "Country": "Albania",
+  "local": "[41153332,20168331]",
+  "total": 1068.267984
+ },
+ {
+  "EDGAR Country Code": "DZA",
+  "Country": "Algeria",
+  "local": "[28033886,1659626]",
+  "total": 2807.567961
+ },
+ {
+  "EDGAR Country Code": "AGO",
+  "Country": "Angola",
+  "local": "[-11202692,17873887]",
+  "total": 0.868567329
+ },
+ {
+  "EDGAR Country Code": "AIA",
+  "Country": "Anguilla",
+  "local": "[18220554,-63068615]",
+  "total": 17601.87018
+ },
+ {
+  "EDGAR Country Code": "ATG",
+  "Country": "Antigua and Barbuda",
+  "local": "[17060816,-61796428]",
+  "total": 487.9182194
+ },
+ {
+  "EDGAR Country Code": "ARG",
+  "Country": "Argentina",
+  "local": "[-38416097,-63616672]",
+  "total": 339.8359083
+ },
+ {
+  "EDGAR Country Code": "ARM",
+  "Country": "Armenia",
+  "local": "[40069099,45038189]",
+  "total": 7353.768517
+ },
+ {
+  "EDGAR Country Code": "ABW",
+  "Country": "Aruba",
+  "local": "[1252111,-69968338]",
+  "total": 15959.69647
+ },
+ {
+  "EDGAR Country Code": "AUS",
+  "Country": "Australia",
+  "local": "[-25274398,133775136]",
+  "total": 708.7472703
+ },
+ {
+  "EDGAR Country Code": "AUT",
+  "Country": "Austria",
+  "local": "[47516231,14550072]",
+  "total": 14.15051593
+ },
+ {
+  "EDGAR Country Code": "AZE",
+  "Country": "Azerbaijan",
+  "local": "[40143105,47576927]",
+  "total": 25757.99862
+ },
+ {
+  "EDGAR Country Code": "BHS",
+  "Country": "Bahamas",
+  "local": "[2503428,-7739628]",
+  "total": 4416.71141
+ },
+ {
+  "EDGAR Country Code": "BHR",
+  "Country": "Bahrain",
+  "local": "[25930414,50637772]",
+  "total": 2989.246774
+ },
+ {
+  "EDGAR Country Code": "BGD",
+  "Country": "Bangladesh",
+  "local": "[23684994,90356331]",
+  "total": 204.5590998
+ },
+ {
+  "EDGAR Country Code": "BRB",
+  "Country": "Barbados",
+  "local": "[13193887,-59543198]",
+  "total": 7755.747528
+ },
+ {
+  "EDGAR Country Code": "BLR",
+  "Country": "Belarus",
+  "local": "[53709807,27953389]",
+  "total": 417.7418588
+ },
+ {
+  "EDGAR Country Code": "BEL",
+  "Country": "Belgium",
+  "local": "[50503887,4469936]",
+  "total": 882.8942108
+ },
+ {
+  "EDGAR Country Code": "BLZ",
+  "Country": "Belize",
+  "local": "[17189877,-8849765]",
+  "total": 9159.941833
+ },
+ {
+  "EDGAR Country Code": "BEN",
+  "Country": "Benin",
+  "local": "[930769,2315834]",
+  "total": 4503.427042
+ },
+ {
+  "EDGAR Country Code": "BMU",
+  "Country": "Bermuda",
+  "local": "[32321384,-6475737]",
+  "total": 2080.286941
+ },
+ {
+  "EDGAR Country Code": "BTN",
+  "Country": "Bhutan",
+  "local": "[27514162,90433601]",
+  "total": 77.27937929
+ },
+ {
+  "EDGAR Country Code": "BOL",
+  "Country": "Bolivia",
+  "local": "[-16290154,-63588653]",
+  "total": 1240.848291
+ },
+ {
+  "EDGAR Country Code": "BIH",
+  "Country": "Bosnia and Herzegovina",
+  "local": "[43915886,17679076]",
+  "total": 5380.560759
+ },
+ {
+  "EDGAR Country Code": "BWA",
+  "Country": "Botswana",
+  "local": "[-22328474,24684866]",
+  "total": 30.45089152
+ },
+ {
+  "EDGAR Country Code": "BRA",
+  "Country": "Brazil",
+  "local": "[-14235004,-5192528]",
+  "total": 12.81768918
+ },
+ {
+  "EDGAR Country Code": "VGB",
+  "Country": "British Virgin Islands",
+  "local": "[18420695,-64639968]",
+  "total": 2024.822822
+ },
+ {
+  "EDGAR Country Code": "BRN",
+  "Country": "Brunei",
+  "local": "[4535277,114727669]",
+  "total": 46018.67651
+ },
+ {
+  "EDGAR Country Code": "BGR",
+  "Country": "Bulgaria",
+  "local": "[42733883,2548583]",
+  "total": 43.24519472
+ },
+ {
+  "EDGAR Country Code": "BFA",
+  "Country": "Burkina Faso",
+  "local": "[12238333,-1561593]",
+  "total": 549.2562398
+ },
+ {
+  "EDGAR Country Code": "BDI",
+  "Country": "Burundi",
+  "local": "[-3373056,29918886]",
+  "total": 86.30865424
+ },
+ {
+  "EDGAR Country Code": "CPV",
+  "Country": "Cabo Verde",
+  "local": "[16002082,-24013197]",
+  "total": 467.3662088
+ },
+ {
+  "EDGAR Country Code": "KHM",
+  "Country": "Cambodia",
+  "local": "[12565679,104990963]",
+  "total": 433.5302078
+ },
+ {
+  "EDGAR Country Code": "CMR",
+  "Country": "Cameroon",
+  "local": "[7369722,12354722]",
+  "total": 34304.35939
+ },
+ {
+  "EDGAR Country Code": "CAN",
+  "Country": "Canada",
+  "local": "[56130366,-106346771]",
+  "total": 2808.127753
+ },
+ {
+  "EDGAR Country Code": "CYM",
+  "Country": "Cayman Islands",
+  "local": "[19513469,-80566956]",
+  "total": 4386.068204
+ },
+ {
+  "EDGAR Country Code": "CAF",
+  "Country": "Central African Republic",
+  "local": "[6611111,20939444]",
+  "total": 366291.279
+ },
+ {
+  "EDGAR Country Code": "TCD",
+  "Country": "Chad",
+  "local": "[15454166,18732207]",
+  "total": 920.194689
+ },
+ {
+  "EDGAR Country Code": "CHL",
+  "Country": "Chile",
+  "local": "[-35675147,-71542969]",
+  "total": 1493.79729
+ },
+ {
+  "EDGAR Country Code": "CHN",
+  "Country": "China",
+  "local": "[3586166,104195397]",
+  "total": 1685.043994
+ },
+ {
+  "EDGAR Country Code": "COL",
+  "Country": "Colombia",
+  "local": "[4570868,-74297333]",
+  "total": 805.405316
+ },
+ {
+  "EDGAR Country Code": "COM",
+  "Country": "Comoros",
+  "local": "[-11875001,43872219]",
+  "total": 3.813090779
+ },
+ {
+  "EDGAR Country Code": "COG",
+  "Country": "Congo",
+  "local": "[-0.228021,15827659]",
+  "total": 7948.833078
+ },
+ {
+  "EDGAR Country Code": "COK",
+  "Country": "Cook Islands",
+  "local": "[-21236736,-159777671]",
+  "total": 24.32713257
+ },
+ {
+  "EDGAR Country Code": "CRI",
+  "Country": "Costa Rica",
+  "local": "[9748917,-83753428]",
+  "total": 30.09093095
+ },
+ {
+  "EDGAR Country Code": "CIV",
+  "Country": "Côte d’Ivoire",
+  "local": "[7539989,-554708]",
+  "total": 607.8173551
+ },
+ {
+  "EDGAR Country Code": "HRV",
+  "Country": "Croatia",
+  "local": "[45.1,15.2]",
+  "total": 2717.04313
+ },
+ {
+  "EDGAR Country Code": "CUB",
+  "Country": "Cuba",
+  "local": "[21521757,-77781167]",
+  "total": 8.29555142
+ },
+ {
+  "EDGAR Country Code": "CYP",
+  "Country": "Cyprus",
+  "local": "[35126413,33429859]",
+  "total": 9284.122192
+ },
+ {
+  "EDGAR Country Code": "CZE",
+  "Country": "Czechia",
+  "local": "[49817492,15472962]",
+  "total": 59252.00769
+ },
+ {
+  "EDGAR Country Code": "COD",
+  "Country": "Democratic Republic of the Congo",
+  "local": "[-19015438,29154857]",
+  "total": 93.82660368
+ },
+ {
+  "EDGAR Country Code": "DNK",
+  "Country": "Denmark",
+  "local": "[5626392,9501785]",
+  "total": 5.448325583
+ },
+ {
+  "EDGAR Country Code": "DJI",
+  "Country": "Djibouti",
+  "local": "[11825138,42590275]",
+  "total": 3701.140123
+ },
+ {
+  "EDGAR Country Code": "DMA",
+  "Country": "Dominica",
+  "local": "[15414999,-61370976]",
+  "total": 1361.816964
+ },
+ {
+  "EDGAR Country Code": "DOM",
+  "Country": "Dominican Republic",
+  "local": "[18735693,-70162651]",
+  "total": 8985.105238
+ },
+ {
+  "EDGAR Country Code": "ECU",
+  "Country": "Ecuador",
+  "local": "[-1831239,-78183406]",
+  "total": 2470.027371
+ },
+ {
+  "EDGAR Country Code": "EGY",
+  "Country": "Egypt",
+  "local": "[26820553,30802498]",
+  "total": 10885.83954
+ },
+ {
+  "EDGAR Country Code": "SLV",
+  "Country": "El Salvador",
+  "local": "[13794185,-8889653]",
+  "total": 278.5665575
+ },
+ {
+  "EDGAR Country Code": "GNQ",
+  "Country": "Equatorial Guinea",
+  "local": "[1650801,10267895]",
+  "total": 16.57033066
+ },
+ {
+  "EDGAR Country Code": "ERI",
+  "Country": "Eritrea",
+  "local": "[15179384,39782334]",
+  "total": 17066.99379
+ },
+ {
+  "EDGAR Country Code": "EST",
+  "Country": "Estonia",
+  "local": "[58595272,25013607]",
+  "total": 1335.847765
+ },
+ {
+  "EDGAR Country Code": "ETH",
+  "Country": "Ethiopia",
+  "local": "[9145,40489673]",
+  "total": 4240.09498
+ },
+ {
+  "EDGAR Country Code": "FLK",
+  "Country": "Falkland Islands",
+  "local": "[-51796253,-59523613]",
+  "total": 128.6539181
+ },
+ {
+  "EDGAR Country Code": "FRO",
+  "Country": "Faroes",
+  "local": "[61892635,-6911806]",
+  "total": 0.580423837
+ },
+ {
+  "EDGAR Country Code": "FJI",
+  "Country": "Fiji",
+  "local": "[-16578193,179414413]",
+  "total": 29336.24954
+ },
+ {
+  "EDGAR Country Code": "FIN",
+  "Country": "Finland",
+  "local": "[6192411,25748151]",
+  "total": 2.579158047
+ },
+ {
+  "EDGAR Country Code": "FRA",
+  "Country": "France",
+  "local": "[46227638,2213749]",
+  "total": 1035.484109
+ },
+ {
+  "EDGAR Country Code": "GUF",
+  "Country": "French Guiana",
+  "local": "[3933889,-53125782]",
+  "total": 37155.68689
+ },
+ {
+  "EDGAR Country Code": "PYF",
+  "Country": "French Polynesia",
+  "local": "[-17679742,-149406843]",
+  "total": 1263.706133
+ },
+ {
+  "EDGAR Country Code": "GAB",
+  "Country": "Gabon",
+  "local": "[-0.803689,11609444]",
+  "total": 1038.366426
+ },
+ {
+  "EDGAR Country Code": "GEO",
+  "Country": "Georgia",
+  "local": "[42315407,43356892]",
+  "total": 16.97543265
+ },
+ {
+  "EDGAR Country Code": "DEU",
+  "Country": "Germany",
+  "local": "[51165691,10451526]",
+  "total": 663.652213
+ },
+ {
+  "EDGAR Country Code": "GHA",
+  "Country": "Ghana",
+  "local": "[7946527,-1023194]",
+  "total": 48.97569086
+ },
+ {
+  "EDGAR Country Code": "GIB",
+  "Country": "Gibraltar",
+  "local": "[36137741,-5345374]",
+  "total": 69.74401418
+ },
+ {
+  "EDGAR Country Code": "GRC",
+  "Country": "Greece",
+  "local": "[39074208,21824312]",
+  "total": 104.5009916
+ },
+ {
+  "EDGAR Country Code": "GRL",
+  "Country": "Greenland",
+  "local": "[71706936,-42604303]",
+  "total": 420.2184909
+ },
+ {
+  "EDGAR Country Code": "GRD",
+  "Country": "Grenada",
+  "local": "[12262776,-61604171]",
+  "total": 4922.981129
+ },
+ {
+  "EDGAR Country Code": "GLP",
+  "Country": "Guadeloupe",
+  "local": "[16995971,-62067641]",
+  "total": 6.329509855
+ },
+ {
+  "EDGAR Country Code": "GTM",
+  "Country": "Guatemala",
+  "local": "[15783471,-90230759]",
+  "total": 14.04479544
+ },
+ {
+  "EDGAR Country Code": "GIN",
+  "Country": "Guinea",
+  "local": "[9945587,-9696645]",
+  "total": 1175.127318
+ },
+ {
+  "EDGAR Country Code": "GNB",
+  "Country": "Guinea-Bissau",
+  "local": "[11803749,-15180413]",
+  "total": 18.90518777
+ },
+ {
+  "EDGAR Country Code": "GUY",
+  "Country": "Guyana",
+  "local": "[4860416,-5893018]",
+  "total": 269.3946991
+ },
+ {
+  "EDGAR Country Code": "HTI",
+  "Country": "Haiti",
+  "local": "[18971187,-72285215]",
+  "total": 2000.49754
+ },
+ {
+  "EDGAR Country Code": "HND",
+  "Country": "Honduras",
+  "local": "[15199999,-86241905]",
+  "total": 715.842478
+ },
+ {
+  "EDGAR Country Code": "HKG",
+  "Country": "Hong Kong",
+  "local": "[22396428,114109497]",
+  "total": 1574.517688
+ },
+ {
+  "EDGAR Country Code": "HUN",
+  "Country": "Hungary",
+  "local": "[47162494,19503304]",
+  "total": 533.0857719
+ },
+ {
+  "EDGAR Country Code": "ISL",
+  "Country": "Iceland",
+  "local": "[64963051,-19020835]",
+  "total": 4716.450685
+ },
+ {
+  "EDGAR Country Code": "IND",
+  "Country": "India",
+  "local": "[20593684,7896288]",
+  "total": 31462.31267
+ },
+ {
+  "EDGAR Country Code": "IDN",
+  "Country": "Indonesia",
+  "local": "[-0.789275,113921327]",
+  "total": 104244.3189
+ },
+ {
+  "EDGAR Country Code": "IRN",
+  "Country": "Iran",
+  "local": "[32427908,53688046]",
+  "total": 9705.754399
+ },
+ {
+  "EDGAR Country Code": "IRQ",
+  "Country": "Iraq",
+  "local": "[33223191,43679291]",
+  "total": 223.9266502
+ },
+ {
+  "EDGAR Country Code": "IRL",
+  "Country": "Ireland",
+  "local": "[5341291,-824389]",
+  "total": 3305.050695
+ },
+ {
+  "EDGAR Country Code": "ISR",
+  "Country": "Israel",
+  "local": "[31046051,34851612]",
+  "total": 25520.77486
+ },
+ {
+  "EDGAR Country Code": "ITA",
+  "Country": "Italy",
+  "local": "[4187194,1256738]",
+  "total": 509.7212218
+ },
+ {
+  "EDGAR Country Code": "JAM",
+  "Country": "Jamaica",
+  "local": "[18109581,-77297508]",
+  "total": 987.9959226
+ },
+ {
+  "EDGAR Country Code": "JPN",
+  "Country": "Japan",
+  "local": "[36204824,138252924]",
+  "total": 67112.56928
+ },
+ {
+  "EDGAR Country Code": "JOR",
+  "Country": "Jordan",
+  "local": "[30585164,36238414]",
+  "total": 15034.98956
+ },
+ {
+  "EDGAR Country Code": "KAZ",
+  "Country": "Kazakhstan",
+  "local": "[48019573,66923684]",
+  "total": 2974.51847
+ },
+ {
+  "EDGAR Country Code": "KEN",
+  "Country": "Kenya",
+  "local": "[-0.023559,37906193]",
+  "total": 1080.63521
+ },
+ {
+  "EDGAR Country Code": "KIR",
+  "Country": "Kiribati",
+  "local": "[-3370417,-168734039]",
+  "total": 1353.067261
+ },
+ {
+  "EDGAR Country Code": "KWT",
+  "Country": "Kuwait",
+  "local": "[2931166,47481766]",
+  "total": 3.169583842
+ },
+ {
+  "EDGAR Country Code": "KGZ",
+  "Country": "Kyrgyzstan",
+  "local": "[4120438,74766098]",
+  "total": 5.289261752
+ },
+ {
+  "EDGAR Country Code": "LAO",
+  "Country": "Laos",
+  "local": "[1985627,102495496]",
+  "total": 23251.74806
+ },
+ {
+  "EDGAR Country Code": "LVA",
+  "Country": "Latvia",
+  "local": "[56879635,24603189]",
+  "total": 4837.570107
+ },
+ {
+  "EDGAR Country Code": "LBN",
+  "Country": "Lebanon",
+  "local": "[33854721,35862285]",
+  "total": 704.0172916
+ },
+ {
+  "EDGAR Country Code": "LSO",
+  "Country": "Lesotho",
+  "local": "[-29609988,28233608]",
+  "total": 936.6171526
+ },
+ {
+  "EDGAR Country Code": "LBR",
+  "Country": "Liberia",
+  "local": "[6428055,-9429499]",
+  "total": 140.0525032
+ },
+ {
+  "EDGAR Country Code": "LBY",
+  "Country": "Libya",
+  "local": "[263351,17228331]",
+  "total": 4717.474288
+ },
+ {
+  "EDGAR Country Code": "LTU",
+  "Country": "Lithuania",
+  "local": "[55169438,23881275]",
+  "total": 11.20676537
+ },
+ {
+  "EDGAR Country Code": "LUX",
+  "Country": "Luxembourg",
+  "local": "[49815273,6129583]",
+  "total": 1505.469722
+ },
+ {
+  "EDGAR Country Code": "MDG",
+  "Country": "Madagascar",
+  "local": "[-18766947,46869107]",
+  "total": 1563.419958
+ },
+ {
+  "EDGAR Country Code": "MWI",
+  "Country": "Malawi",
+  "local": "[-13254308,34301525]",
+  "total": 651.2565612
+ },
+ {
+  "EDGAR Country Code": "MYS",
+  "Country": "Malaysia",
+  "local": "[4210484,101975766]",
+  "total": 924.7136891
+ },
+ {
+  "EDGAR Country Code": "MDV",
+  "Country": "Maldives",
+  "local": "[3202778,7322068]",
+  "total": 76.41469103
+ },
+ {
+  "EDGAR Country Code": "MLI",
+  "Country": "Mali",
+  "local": "[17570692,-3996166]",
+  "total": 3204.86825
+ },
+ {
+  "EDGAR Country Code": "MLT",
+  "Country": "Malta",
+  "local": "[35937496,14375416]",
+  "total": 1034.319942
+ },
+ {
+  "EDGAR Country Code": "MTQ",
+  "Country": "Martinique",
+  "local": "[14641528,-61024174]",
+  "total": 1433.806427
+ },
+ {
+  "EDGAR Country Code": "MRT",
+  "Country": "Mauritania",
+  "local": "[2100789,-10940835]",
+  "total": 39.89850232
+ },
+ {
+  "EDGAR Country Code": "MUS",
+  "Country": "Mauritius",
+  "local": "[-20348404,57552152]",
+  "total": 29646.74274
+ },
+ {
+  "EDGAR Country Code": "MEX",
+  "Country": "Mexico",
+  "local": "[23634501,-102552784]",
+  "total": 637.8558025
+ },
+ {
+  "EDGAR Country Code": "MDA",
+  "Country": "Moldova",
+  "local": "[47411631,28369885]",
+  "total": 1102.787402
+ },
+ {
+  "EDGAR Country Code": "MNG",
+  "Country": "Mongolia",
+  "local": "[46862496,103846656]",
+  "total": 111.487059
+ },
+ {
+  "EDGAR Country Code": "MAR",
+  "Country": "Morocco",
+  "local": "[31791702,-709262]",
+  "total": 5201.157181
+ },
+ {
+  "EDGAR Country Code": "MOZ",
+  "Country": "Mozambique",
+  "local": "[-18665695,35529562]",
+  "total": 1638.345805
+ },
+ {
+  "EDGAR Country Code": "MMR",
+  "Country": "Myanmar",
+  "local": "[21913965,95956223]",
+  "total": 896.2372475
+ },
+ {
+  "EDGAR Country Code": "NAM",
+  "Country": "Namibia",
+  "local": "[-2295764,1849041]",
+  "total": 477.4708693
+ },
+ {
+  "EDGAR Country Code": "NPL",
+  "Country": "Nepal",
+  "local": "[28394857,84124008]",
+  "total": 43.69528135
+ },
+ {
+  "EDGAR Country Code": "NLD",
+  "Country": "Netherlands",
+  "local": "[52132633,5291266]",
+  "total": 164.7376902
+ },
+ {
+  "EDGAR Country Code": "NCL",
+  "Country": "New Caledonia",
+  "local": "[-20904305,165618042]",
+  "total": 459.049734
+ },
+ {
+  "EDGAR Country Code": "NZL",
+  "Country": "New Zealand",
+  "local": "[-40900557,174885971]",
+  "total": 8842.901281
+ },
+ {
+  "EDGAR Country Code": "NIC",
+  "Country": "Nicaragua",
+  "local": "[12865416,-85207229]",
+  "total": 446.5476489
+ },
+ {
+  "EDGAR Country Code": "NER",
+  "Country": "Niger",
+  "local": "[17607789,8081666]",
+  "total": 151.7547831
+ },
+ {
+  "EDGAR Country Code": "NGA",
+  "Country": "Nigeria",
+  "local": "[9081999,8675277]",
+  "total": 1023.513257
+ },
+ {
+  "EDGAR Country Code": "PRK",
+  "Country": "North Korea",
+  "local": "[40339852,127510093]",
+  "total": 17927.49934
+ },
+ {
+  "EDGAR Country Code": "MKD",
+  "Country": "Macedonia",
+  "local": "[41608635,21745275]",
+  "total": 704.1170504
+ },
+ {
+  "EDGAR Country Code": "NOR",
+  "Country": "Norway",
+  "local": "[60472024,8468946]",
+  "total": 11447.19168
+ },
+ {
+  "EDGAR Country Code": "OMN",
+  "Country": "Oman",
+  "local": "[21512583,55923255]",
+  "total": 3556.585913
+ },
+ {
+  "EDGAR Country Code": "PAK",
+  "Country": "Pakistan",
+  "local": "[30375321,69345116]",
+  "total": 1921.741869
+ },
+ {
+  "EDGAR Country Code": "PLW",
+  "Country": "Palau",
+  "local": "[751498,13458252]",
+  "total": 4022.028102
+ },
+ {
+  "EDGAR Country Code": "PAN",
+  "Country": "Panama",
+  "local": "[8537981,-80782127]",
+  "total": 3058.949444
+ },
+ {
+  "EDGAR Country Code": "PNG",
+  "Country": "Papua New Guinea",
+  "local": "[-6314993,14395555]",
+  "total": 15088.97639
+ },
+ {
+  "EDGAR Country Code": "PRY",
+  "Country": "Paraguay",
+  "local": "[-23442503,-58443832]",
+  "total": 584.7851915
+ },
+ {
+  "EDGAR Country Code": "PER",
+  "Country": "Peru",
+  "local": "[-9189967,-75015152]",
+  "total": 3327.083098
+ },
+ {
+  "EDGAR Country Code": "PHL",
+  "Country": "Philippines",
+  "local": "[12879721,121774017]",
+  "total": 7735.089304
+ },
+ {
+  "EDGAR Country Code": "POL",
+  "Country": "Poland",
+  "local": "[51919438,19145136]",
+  "total": 109.0630138
+ },
+ {
+  "EDGAR Country Code": "PRT",
+  "Country": "Portugal",
+  "local": "[39399872,-8224454]",
+  "total": 310.2526289
+ },
+ {
+  "EDGAR Country Code": "PRI",
+  "Country": "Puerto Rico",
+  "local": "[18220833,-66590149]",
+  "total": 26234.07184
+ },
+ {
+  "EDGAR Country Code": "QAT",
+  "Country": "Qatar",
+  "local": "[25354826,51183884]",
+  "total": 1324.162774
+ },
+ {
+  "EDGAR Country Code": "REU",
+  "Country": "Réunion",
+  "local": "[-21115141,55536384]",
+  "total": 6137.161185
+ },
+ {
+  "EDGAR Country Code": "ROU",
+  "Country": "Romania",
+  "local": "[45943161,2496676]",
+  "total": 3148.273334
+ },
+ {
+  "EDGAR Country Code": "RUS",
+  "Country": "Russia",
+  "local": "[6152401,105318756]",
+  "total": 1380.661184
+ },
+ {
+  "EDGAR Country Code": "RWA",
+  "Country": "Rwanda",
+  "local": "[-1940278,29873888]",
+  "total": 44.89106661
+ },
+ {
+  "EDGAR Country Code": "KNA",
+  "Country": "Saint Kitts and Nevis",
+  "local": "[17357822,-62782998]",
+  "total": 97.1564131
+ },
+ {
+  "EDGAR Country Code": "LCA",
+  "Country": "Saint Lucia",
+  "local": "[13909444,-60978893]",
+  "total": 9682.982213
+ },
+ {
+  "EDGAR Country Code": "SPM",
+  "Country": "Saint Pierre and Miquelon",
+  "local": "[46941936,-5627111]",
+  "total": 127707.9242
+ },
+ {
+  "EDGAR Country Code": "VCT",
+  "Country": "Saint Vincent and the Grenadines",
+  "local": "[12984305,-61287228]",
+  "total": 320.1060744
+ },
+ {
+  "EDGAR Country Code": "WSM",
+  "Country": "Samoa",
+  "local": "[-13759029,-172104629]",
+  "total": 20660.5165
+ },
+ {
+  "EDGAR Country Code": "STP",
+  "Country": "São Tomé and Príncipe",
+  "local": "[0.18636,6613081]",
+  "total": 3699.231965
+ },
+ {
+  "EDGAR Country Code": "SAU",
+  "Country": "Saudi Arabia",
+  "local": "[23885942,45079162]",
+  "total": 4706.534213
+ },
+ {
+  "EDGAR Country Code": "SEN",
+  "Country": "Senegal",
+  "local": "[14497401,-14452362]",
+  "total": 26867.10799
+ },
+ {
+  "EDGAR Country Code": "SCG",
+  "Country": "Serbia",
+  "local": "[44016521,21005859]",
+  "total": 792.4797325
+ },
+ {
+  "EDGAR Country Code": "SYC",
+  "Country": "Seychelles",
+  "local": "[-4679574,55491977]",
+  "total": 2157.8578
+ },
+ {
+  "EDGAR Country Code": "SLE",
+  "Country": "Sierra Leone",
+  "local": "[8460555,-11779889]",
+  "total": 0.483952233
+ },
+ {
+  "EDGAR Country Code": "SGP",
+  "Country": "Singapore",
+  "local": "[1352083,103819836]",
+  "total": 19.92532551
+ },
+ {
+  "EDGAR Country Code": "SVK",
+  "Country": "Slovakia",
+  "local": "[48669026,19699024]",
+  "total": 244.4602528
+ },
+ {
+  "EDGAR Country Code": "SVN",
+  "Country": "Slovenia",
+  "local": "[46151241,14995463]",
+  "total": 522.8077613
+ },
+ {
+  "EDGAR Country Code": "SLB",
+  "Country": "Solomon Islands",
+  "local": "[-964571,160156194]",
+  "total": 1388.887104
+ },
+ {
+  "EDGAR Country Code": "SOM",
+  "Country": "Somalia",
+  "local": "[5152149,46199616]",
+  "total": 2.487884222
+ },
+ {
+  "EDGAR Country Code": "ZAF",
+  "Country": "South Africa",
+  "local": "[-30559482,22937506]",
+  "total": 6.65510987
+ },
+ {
+  "EDGAR Country Code": "KOR",
+  "Country": "South Korea",
+  "local": "[35907757,127766922]",
+  "total": 135.550385
+ },
+ {
+  "EDGAR Country Code": "ESP",
+  "Country": "Spain",
+  "local": "[40463667,-374922]",
+  "total": 3072.405996
+ },
+ {
+  "EDGAR Country Code": "LKA",
+  "Country": "Sri Lanka",
+  "local": "[7873054,80771797]",
+  "total": 1058.625356
+ },
+ {
+  "EDGAR Country Code": "SDN",
+  "Country": "Sudan",
+  "local": "[12862807,30217636]",
+  "total": 4471.709063
+ },
+ {
+  "EDGAR Country Code": "SUR",
+  "Country": "Suriname",
+  "local": "[3919305,-56027783]",
+  "total": 157.3143903
+ },
+ {
+  "EDGAR Country Code": "SWE",
+  "Country": "Sweden",
+  "local": "[60128161,18643501]",
+  "total": 32.29782728
+ },
+ {
+  "EDGAR Country Code": "CHE",
+  "Country": "Switzerland",
+  "local": "[46818188,8227512]",
+  "total": 2995.971689
+ },
+ {
+  "EDGAR Country Code": "SYR",
+  "Country": "Syria",
+  "local": "[34802075,38996815]",
+  "total": 1.954830283
+ },
+ {
+  "EDGAR Country Code": "TWN",
+  "Country": "Taiwan",
+  "local": "[2369781,120960515]",
+  "total": 1610.290256
+ },
+ {
+  "EDGAR Country Code": "TJK",
+  "Country": "Tajikistan",
+  "local": "[38861034,71276093]",
+  "total": 268.0980349
+ },
+ {
+  "EDGAR Country Code": "TZA",
+  "Country": "Tanzania",
+  "local": "[-6369028,34888822]",
+  "total": 15331.17963
+ },
+ {
+  "EDGAR Country Code": "THA",
+  "Country": "Thailand",
+  "local": "[15870032,100992541]",
+  "total": 847.1961003
+ },
+ {
+  "EDGAR Country Code": "GMB",
+  "Country": "Gambia",
+  "local": "[13443182,-15310139]",
+  "total": 4483.702225
+ },
+ {
+  "EDGAR Country Code": "TLS",
+  "Country": "Timor-Leste",
+  "local": "[-8874217,125727539]",
+  "total": 89.3251239
+ },
+ {
+  "EDGAR Country Code": "TGO",
+  "Country": "Togo",
+  "local": "[8619543,0.824782]",
+  "total": 10.41554719
+ },
+ {
+  "EDGAR Country Code": "TON",
+  "Country": "Tonga",
+  "local": "[-21178986,-175198242]",
+  "total": 1638.56882
+ },
+ {
+  "EDGAR Country Code": "TTO",
+  "Country": "Trinidad and Tobago",
+  "local": "[10691803,-61222503]",
+  "total": 1544.794274
+ },
+ {
+  "EDGAR Country Code": "TUN",
+  "Country": "Tunisia",
+  "local": "[33886917,9537499]",
+  "total": 16343.63203
+ },
+ {
+  "EDGAR Country Code": "TUR",
+  "Country": "Turkey",
+  "local": "[38963745,35243322]",
+  "total": 10723.32716
+ },
+ {
+  "EDGAR Country Code": "TKM",
+  "Country": "Turkmenistan",
+  "local": "[38969719,59556278]",
+  "total": 2351.536109
+ },
+ {
+  "EDGAR Country Code": "TCA",
+  "Country": "Turks and Caicos Islands",
+  "local": "[21694025,-71797928]",
+  "total": 1439.555755
+ },
+ {
+  "EDGAR Country Code": "UGA",
+  "Country": "Uganda",
+  "local": "[1373333,32290275]",
+  "total": 31408.37738
+ },
+ {
+  "EDGAR Country Code": "UKR",
+  "Country": "Ukraine",
+  "local": "[48379433,3116558]",
+  "total": 1896.79852
+ },
+ {
+  "EDGAR Country Code": "ARE",
+  "Country": "United Arab Emirates",
+  "local": "[23424076,53847818]",
+  "total": 334832.289
+ },
+ {
+  "EDGAR Country Code": "GBR",
+  "Country": "United Kingdom",
+  "local": "[55378051,-3435973]",
+  "total": 9344.061601
+ },
+ {
+  "EDGAR Country Code": "USA",
+  "Country": "United States",
+  "local": "[3709024,-95712891]",
+  "total": 5.799963381
+ },
+ {
+  "EDGAR Country Code": "URY",
+  "Country": "Uruguay",
+  "local": "[-32522779,-55765835]",
+  "total": 9894.306964
+ },
+ {
+  "EDGAR Country Code": "UZB",
+  "Country": "Uzbekistan",
+  "local": "[41377491,64585262]",
+  "total": 1.950291888
+ },
+ {
+  "EDGAR Country Code": "VUT",
+  "Country": "Vanuatu",
+  "local": "[-15376706,166959158]",
+  "total": 10827.24759
+ },
+ {
+  "EDGAR Country Code": "VEN",
+  "Country": "Venezuela",
+  "local": "[642375,-6658973]",
+  "total": 27.43243009
+ },
+ {
+  "EDGAR Country Code": "VNM",
+  "Country": "Vietnam",
+  "local": "[14058324,108277199]",
+  "total": 19.14184288
+ },
+ {
+  "EDGAR Country Code": "ESH",
+  "Country": "Western Sahara",
+  "local": "[24215527,-12885834]",
+  "total": 1419.069269
+ },
+ {
+  "EDGAR Country Code": "YEM",
+  "Country": "Yemen",
+  "local": "[15552727,48516388]",
+  "total": 23717.07269
+ },
+ {
+  "EDGAR Country Code": "ZMB",
+  "Country": "Zambia",
+  "local": "[-13133897,27849332]",
+  "total": 961.4672217
+ },
+ {
+  "EDGAR Country Code": "ZWE",
+  "Country": "Zimbabwe",
+  "local": "[-19015438,29154857]",
+  "total": 1513.521645
+ }
+]
