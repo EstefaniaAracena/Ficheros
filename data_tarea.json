@@ -1,5 +1,5 @@
 {
-"TOTALS BY COUNTRY":[
+"paises":[
  {
   "C_group_IM24_sh": "India +",
   "Country_code_A3": "AFG",
@@ -11629,822 +11629,102 @@
   "total": 595961.543222
  }
 ],
-"Hoja1":[
+"conti":[
  {
-  "EDGAR Country Code": "AFG",
-  "local": "[3393911,67709953]"
+  "Continente": "Asia-Stan",
+  "ctotal": 18316239.162130527
  },
  {
-  "EDGAR Country Code": "ALB",
-  "local": "[41153332,20168331]"
+  "Continente": "Brazil",
+  "ctotal": 14710586.008895421
  },
  {
-  "EDGAR Country Code": "DZA",
-  "local": "[28033886,1659626]"
+  "Continente": "Canada",
+  "ctotal": 24231556.088339027
  },
  {
-  "EDGAR Country Code": "AGO",
-  "local": "[-11202692,17873887]"
+  "Continente": "Central Europe",
+  "ctotal": 50566360.48686559
  },
  {
-  "EDGAR Country Code": "AIA",
-  "local": "[18220554,-63068615]"
+  "Continente": "China +",
+  "ctotal": 227115818.62632343
  },
  {
-  "EDGAR Country Code": "ATG",
-  "local": "[17060816,-61796428]"
+  "Continente": "Eastern_Africa",
+  "ctotal": 1554944.745733641
  },
  {
-  "EDGAR Country Code": "ARG",
-  "local": "[-38416097,-63616672]"
+  "Continente": "India +",
+  "ctotal": 52828808.908475064
  },
  {
-  "EDGAR Country Code": "ARM",
-  "local": "[40069099,45038189]"
+  "Continente": "Indonesia +",
+  "ctotal": 12172957.75140756
  },
  {
-  "EDGAR Country Code": "ABW",
-  "local": "[1252111,-69968338]"
+  "Continente": "Japan",
+  "ctotal": 55471607.65826924
  },
  {
-  "EDGAR Country Code": "AUS",
-  "local": "[-25274398,133775136]"
+  "Continente": "Korea",
+  "ctotal": 21610918.74731808
  },
  {
-  "EDGAR Country Code": "AUT",
-  "local": "[47516231,14550072]"
+  "Continente": "Mexico",
+  "ctotal": 16540286.83383303
  },
  {
-  "EDGAR Country Code": "AZE",
-  "local": "[40143105,47576927]"
+  "Continente": "Middle_East",
+  "ctotal": 50093311.17116123
  },
  {
-  "EDGAR Country Code": "BHS",
-  "local": "[2503428,-7739628]"
+  "Continente": "Northern_Africa",
+  "ctotal": 14377364.319251852
  },
  {
-  "EDGAR Country Code": "BHR",
-  "local": "[25930414,50637772]"
+  "Continente": "Oceania",
+  "ctotal": 16443449.473073203
  },
  {
-  "EDGAR Country Code": "BGD",
-  "local": "[23684994,90356331]"
+  "Continente": "OECD_Europe",
+  "ctotal": 165180872.2709679
  },
  {
-  "EDGAR Country Code": "BRB",
-  "local": "[13193887,-59543198]"
+  "Continente": "Rest Central America",
+  "ctotal": 5533818.615196329
  },
  {
-  "EDGAR Country Code": "BLR",
-  "local": "[53709807,27953389]"
+  "Continente": "Rest South America",
+  "ctotal": 21142953.45824817
  },
  {
-  "EDGAR Country Code": "BEL",
-  "local": "[50503887,4469936]"
+  "Continente": "Russia +",
+  "ctotal": 91266723.9864944
  },
  {
-  "EDGAR Country Code": "BLZ",
-  "local": "[17189877,-8849765]"
+  "Continente": "Southeastern Asia",
+  "ctotal": 21053018.9645965
  },
  {
-  "EDGAR Country Code": "BEN",
-  "local": "[930769,2315834]"
+  "Continente": "Southern_Africa",
+  "ctotal": 18742744.665431507
  },
  {
-  "EDGAR Country Code": "BMU",
-  "local": "[32321384,-6475737]"
+  "Continente": "Turkey",
+  "ctotal": 9339097.446798692
  },
  {
-  "EDGAR Country Code": "BTN",
-  "local": "[27514162,90433601]"
+  "Continente": "Ukraine +",
+  "ctotal": 29951564.502361126
  },
  {
-  "EDGAR Country Code": "BOL",
-  "local": "[-16290154,-63588653]"
+  "Continente": "USA",
+  "ctotal": 256346979.95788264
  },
  {
-  "EDGAR Country Code": "BIH",
-  "local": "[43915886,17679076]"
- },
- {
-  "EDGAR Country Code": "BWA",
-  "local": "[-22328474,24684866]"
- },
- {
-  "EDGAR Country Code": "BRA",
-  "local": "[-14235004,-5192528]"
- },
- {
-  "EDGAR Country Code": "VGB",
-  "local": "[18420695,-64639968]"
- },
- {
-  "EDGAR Country Code": "BRN",
-  "local": "[4535277,114727669]"
- },
- {
-  "EDGAR Country Code": "BGR",
-  "local": "[42733883,2548583]"
- },
- {
-  "EDGAR Country Code": "BFA",
-  "local": "[12238333,-1561593]"
- },
- {
-  "EDGAR Country Code": "BDI",
-  "local": "[-3373056,29918886]"
- },
- {
-  "EDGAR Country Code": "CPV",
-  "local": "[16002082,-24013197]"
- },
- {
-  "EDGAR Country Code": "KHM",
-  "local": "[12565679,104990963]"
- },
- {
-  "EDGAR Country Code": "CMR",
-  "local": "[7369722,12354722]"
- },
- {
-  "EDGAR Country Code": "CAN",
-  "local": "[56130366,-106346771]"
- },
- {
-  "EDGAR Country Code": "CYM",
-  "local": "[19513469,-80566956]"
- },
- {
-  "EDGAR Country Code": "CAF",
-  "local": "[6611111,20939444]"
- },
- {
-  "EDGAR Country Code": "TCD",
-  "local": "[15454166,18732207]"
- },
- {
-  "EDGAR Country Code": "CHL",
-  "local": "[-35675147,-71542969]"
- },
- {
-  "EDGAR Country Code": "CHN",
-  "local": "[3586166,104195397]"
- },
- {
-  "EDGAR Country Code": "COL",
-  "local": "[4570868,-74297333]"
- },
- {
-  "EDGAR Country Code": "COM",
-  "local": "[-11875001,43872219]"
- },
- {
-  "EDGAR Country Code": "COG",
-  "local": "[-0.228021,15827659]"
- },
- {
-  "EDGAR Country Code": "COK",
-  "local": "[-21236736,-159777671]"
- },
- {
-  "EDGAR Country Code": "CRI",
-  "local": "[9748917,-83753428]"
- },
- {
-  "EDGAR Country Code": "CIV",
-  "local": "[7539989,-554708]"
- },
- {
-  "EDGAR Country Code": "HRV",
-  "local": "[45.1,15.2]"
- },
- {
-  "EDGAR Country Code": "CUB",
-  "local": "[21521757,-77781167]"
- },
- {
-  "EDGAR Country Code": "CYP",
-  "local": "[35126413,33429859]"
- },
- {
-  "EDGAR Country Code": "CZE",
-  "local": "[49817492,15472962]"
- },
- {
-  "EDGAR Country Code": "COD",
-  "local": "[-19015438,29154857]"
- },
- {
-  "EDGAR Country Code": "DNK",
-  "local": "[5626392,9501785]"
- },
- {
-  "EDGAR Country Code": "DJI",
-  "local": "[11825138,42590275]"
- },
- {
-  "EDGAR Country Code": "DMA",
-  "local": "[15414999,-61370976]"
- },
- {
-  "EDGAR Country Code": "DOM",
-  "local": "[18735693,-70162651]"
- },
- {
-  "EDGAR Country Code": "ECU",
-  "local": "[-1831239,-78183406]"
- },
- {
-  "EDGAR Country Code": "EGY",
-  "local": "[26820553,30802498]"
- },
- {
-  "EDGAR Country Code": "SLV",
-  "local": "[13794185,-8889653]"
- },
- {
-  "EDGAR Country Code": "GNQ",
-  "local": "[1650801,10267895]"
- },
- {
-  "EDGAR Country Code": "ERI",
-  "local": "[15179384,39782334]"
- },
- {
-  "EDGAR Country Code": "EST",
-  "local": "[58595272,25013607]"
- },
- {
-  "EDGAR Country Code": "ETH",
-  "local": "[9145,40489673]"
- },
- {
-  "EDGAR Country Code": "FLK",
-  "local": "[-51796253,-59523613]"
- },
- {
-  "EDGAR Country Code": "FRO",
-  "local": "[61892635,-6911806]"
- },
- {
-  "EDGAR Country Code": "FJI",
-  "local": "[-16578193,179414413]"
- },
- {
-  "EDGAR Country Code": "FIN",
-  "local": "[6192411,25748151]"
- },
- {
-  "EDGAR Country Code": "FRA",
-  "local": "[46227638,2213749]"
- },
- {
-  "EDGAR Country Code": "GUF",
-  "local": "[3933889,-53125782]"
- },
- {
-  "EDGAR Country Code": "PYF",
-  "local": "[-17679742,-149406843]"
- },
- {
-  "EDGAR Country Code": "GAB",
-  "local": "[-0.803689,11609444]"
- },
- {
-  "EDGAR Country Code": "GEO",
-  "local": "[42315407,43356892]"
- },
- {
-  "EDGAR Country Code": "DEU",
-  "local": "[51165691,10451526]"
- },
- {
-  "EDGAR Country Code": "GHA",
-  "local": "[7946527,-1023194]"
- },
- {
-  "EDGAR Country Code": "GIB",
-  "local": "[36137741,-5345374]"
- },
- {
-  "EDGAR Country Code": "GRC",
-  "local": "[39074208,21824312]"
- },
- {
-  "EDGAR Country Code": "GRL",
-  "local": "[71706936,-42604303]"
- },
- {
-  "EDGAR Country Code": "GRD",
-  "local": "[12262776,-61604171]"
- },
- {
-  "EDGAR Country Code": "GLP",
-  "local": "[16995971,-62067641]"
- },
- {
-  "EDGAR Country Code": "GTM",
-  "local": "[15783471,-90230759]"
- },
- {
-  "EDGAR Country Code": "GIN",
-  "local": "[9945587,-9696645]"
- },
- {
-  "EDGAR Country Code": "GNB",
-  "local": "[11803749,-15180413]"
- },
- {
-  "EDGAR Country Code": "GUY",
-  "local": "[4860416,-5893018]"
- },
- {
-  "EDGAR Country Code": "HTI",
-  "local": "[18971187,-72285215]"
- },
- {
-  "EDGAR Country Code": "HND",
-  "local": "[15199999,-86241905]"
- },
- {
-  "EDGAR Country Code": "HKG",
-  "local": "[22396428,114109497]"
- },
- {
-  "EDGAR Country Code": "HUN",
-  "local": "[47162494,19503304]"
- },
- {
-  "EDGAR Country Code": "ISL",
-  "local": "[64963051,-19020835]"
- },
- {
-  "EDGAR Country Code": "IND",
-  "local": "[20593684,7896288]"
- },
- {
-  "EDGAR Country Code": "IDN",
-  "local": "[-0.789275,113921327]"
- },
- {
-  "EDGAR Country Code": "IRN",
-  "local": "[32427908,53688046]"
- },
- {
-  "EDGAR Country Code": "IRQ",
-  "local": "[33223191,43679291]"
- },
- {
-  "EDGAR Country Code": "IRL",
-  "local": "[5341291,-824389]"
- },
- {
-  "EDGAR Country Code": "ISR",
-  "local": "[31046051,34851612]"
- },
- {
-  "EDGAR Country Code": "ITA",
-  "local": "[4187194,1256738]"
- },
- {
-  "EDGAR Country Code": "JAM",
-  "local": "[18109581,-77297508]"
- },
- {
-  "EDGAR Country Code": "JPN",
-  "local": "[36204824,138252924]"
- },
- {
-  "EDGAR Country Code": "JOR",
-  "local": "[30585164,36238414]"
- },
- {
-  "EDGAR Country Code": "KAZ",
-  "local": "[48019573,66923684]"
- },
- {
-  "EDGAR Country Code": "KEN",
-  "local": "[-0.023559,37906193]"
- },
- {
-  "EDGAR Country Code": "KIR",
-  "local": "[-3370417,-168734039]"
- },
- {
-  "EDGAR Country Code": "KWT",
-  "local": "[2931166,47481766]"
- },
- {
-  "EDGAR Country Code": "KGZ",
-  "local": "[4120438,74766098]"
- },
- {
-  "EDGAR Country Code": "LAO",
-  "local": "[1985627,102495496]"
- },
- {
-  "EDGAR Country Code": "LVA",
-  "local": "[56879635,24603189]"
- },
- {
-  "EDGAR Country Code": "LBN",
-  "local": "[33854721,35862285]"
- },
- {
-  "EDGAR Country Code": "LSO",
-  "local": "[-29609988,28233608]"
- },
- {
-  "EDGAR Country Code": "LBR",
-  "local": "[6428055,-9429499]"
- },
- {
-  "EDGAR Country Code": "LBY",
-  "local": "[263351,17228331]"
- },
- {
-  "EDGAR Country Code": "LTU",
-  "local": "[55169438,23881275]"
- },
- {
-  "EDGAR Country Code": "LUX",
-  "local": "[49815273,6129583]"
- },
- {
-  "EDGAR Country Code": "MDG",
-  "local": "[-18766947,46869107]"
- },
- {
-  "EDGAR Country Code": "MWI",
-  "local": "[-13254308,34301525]"
- },
- {
-  "EDGAR Country Code": "MYS",
-  "local": "[4210484,101975766]"
- },
- {
-  "EDGAR Country Code": "MDV",
-  "local": "[3202778,7322068]"
- },
- {
-  "EDGAR Country Code": "MLI",
-  "local": "[17570692,-3996166]"
- },
- {
-  "EDGAR Country Code": "MLT",
-  "local": "[35937496,14375416]"
- },
- {
-  "EDGAR Country Code": "MTQ",
-  "local": "[14641528,-61024174]"
- },
- {
-  "EDGAR Country Code": "MRT",
-  "local": "[2100789,-10940835]"
- },
- {
-  "EDGAR Country Code": "MUS",
-  "local": "[-20348404,57552152]"
- },
- {
-  "EDGAR Country Code": "MEX",
-  "local": "[23634501,-102552784]"
- },
- {
-  "EDGAR Country Code": "MDA",
-  "local": "[47411631,28369885]"
- },
- {
-  "EDGAR Country Code": "MNG",
-  "local": "[46862496,103846656]"
- },
- {
-  "EDGAR Country Code": "MAR",
-  "local": "[31791702,-709262]"
- },
- {
-  "EDGAR Country Code": "MOZ",
-  "local": "[-18665695,35529562]"
- },
- {
-  "EDGAR Country Code": "MMR",
-  "local": "[21913965,95956223]"
- },
- {
-  "EDGAR Country Code": "NAM",
-  "local": "[-2295764,1849041]"
- },
- {
-  "EDGAR Country Code": "NPL",
-  "local": "[28394857,84124008]"
- },
- {
-  "EDGAR Country Code": "NLD",
-  "local": "[52132633,5291266]"
- },
- {
-  "EDGAR Country Code": "NCL",
-  "local": "[-20904305,165618042]"
- },
- {
-  "EDGAR Country Code": "NZL",
-  "local": "[-40900557,174885971]"
- },
- {
-  "EDGAR Country Code": "NIC",
-  "local": "[12865416,-85207229]"
- },
- {
-  "EDGAR Country Code": "NER",
-  "local": "[17607789,8081666]"
- },
- {
-  "EDGAR Country Code": "NGA",
-  "local": "[9081999,8675277]"
- },
- {
-  "EDGAR Country Code": "PRK",
-  "local": "[40339852,127510093]"
- },
- {
-  "EDGAR Country Code": "MKD",
-  "local": "[41608635,21745275]"
- },
- {
-  "EDGAR Country Code": "NOR",
-  "local": "[60472024,8468946]"
- },
- {
-  "EDGAR Country Code": "OMN",
-  "local": "[21512583,55923255]"
- },
- {
-  "EDGAR Country Code": "PAK",
-  "local": "[30375321,69345116]"
- },
- {
-  "EDGAR Country Code": "PLW",
-  "local": "[751498,13458252]"
- },
- {
-  "EDGAR Country Code": "PAN",
-  "local": "[8537981,-80782127]"
- },
- {
-  "EDGAR Country Code": "PNG",
-  "local": "[-6314993,14395555]"
- },
- {
-  "EDGAR Country Code": "PRY",
-  "local": "[-23442503,-58443832]"
- },
- {
-  "EDGAR Country Code": "PER",
-  "local": "[-9189967,-75015152]"
- },
- {
-  "EDGAR Country Code": "PHL",
-  "local": "[12879721,121774017]"
- },
- {
-  "EDGAR Country Code": "POL",
-  "local": "[51919438,19145136]"
- },
- {
-  "EDGAR Country Code": "PRT",
-  "local": "[39399872,-8224454]"
- },
- {
-  "EDGAR Country Code": "PRI",
-  "local": "[18220833,-66590149]"
- },
- {
-  "EDGAR Country Code": "QAT",
-  "local": "[25354826,51183884]"
- },
- {
-  "EDGAR Country Code": "REU",
-  "local": "[-21115141,55536384]"
- },
- {
-  "EDGAR Country Code": "ROU",
-  "local": "[45943161,2496676]"
- },
- {
-  "EDGAR Country Code": "RUS",
-  "local": "[6152401,105318756]"
- },
- {
-  "EDGAR Country Code": "RWA",
-  "local": "[-1940278,29873888]"
- },
- {
-  "EDGAR Country Code": "KNA",
-  "local": "[17357822,-62782998]"
- },
- {
-  "EDGAR Country Code": "LCA",
-  "local": "[13909444,-60978893]"
- },
- {
-  "EDGAR Country Code": "SPM",
-  "local": "[46941936,-5627111]"
- },
- {
-  "EDGAR Country Code": "VCT",
-  "local": "[12984305,-61287228]"
- },
- {
-  "EDGAR Country Code": "WSM",
-  "local": "[-13759029,-172104629]"
- },
- {
-  "EDGAR Country Code": "STP",
-  "local": "[0.18636,6613081]"
- },
- {
-  "EDGAR Country Code": "SAU",
-  "local": "[23885942,45079162]"
- },
- {
-  "EDGAR Country Code": "SEN",
-  "local": "[14497401,-14452362]"
- },
- {
-  "EDGAR Country Code": "SCG",
-  "local": "[44016521,21005859]"
- },
- {
-  "EDGAR Country Code": "SYC",
-  "local": "[-4679574,55491977]"
- },
- {
-  "EDGAR Country Code": "SLE",
-  "local": "[8460555,-11779889]"
- },
- {
-  "EDGAR Country Code": "SGP",
-  "local": "[1352083,103819836]"
- },
- {
-  "EDGAR Country Code": "SVK",
-  "local": "[48669026,19699024]"
- },
- {
-  "EDGAR Country Code": "SVN",
-  "local": "[46151241,14995463]"
- },
- {
-  "EDGAR Country Code": "SLB",
-  "local": "[-964571,160156194]"
- },
- {
-  "EDGAR Country Code": "SOM",
-  "local": "[5152149,46199616]"
- },
- {
-  "EDGAR Country Code": "ZAF",
-  "local": "[-30559482,22937506]"
- },
- {
-  "EDGAR Country Code": "KOR",
-  "local": "[35907757,127766922]"
- },
- {
-  "EDGAR Country Code": "ESP",
-  "local": "[40463667,-374922]"
- },
- {
-  "EDGAR Country Code": "LKA",
-  "local": "[7873054,80771797]"
- },
- {
-  "EDGAR Country Code": "SDN",
-  "local": "[12862807,30217636]"
- },
- {
-  "EDGAR Country Code": "SUR",
-  "local": "[3919305,-56027783]"
- },
- {
-  "EDGAR Country Code": "SWE",
-  "local": "[60128161,18643501]"
- },
- {
-  "EDGAR Country Code": "CHE",
-  "local": "[46818188,8227512]"
- },
- {
-  "EDGAR Country Code": "SYR",
-  "local": "[34802075,38996815]"
- },
- {
-  "EDGAR Country Code": "TWN",
-  "local": "[2369781,120960515]"
- },
- {
-  "EDGAR Country Code": "TJK",
-  "local": "[38861034,71276093]"
- },
- {
-  "EDGAR Country Code": "TZA",
-  "local": "[-6369028,34888822]"
- },
- {
-  "EDGAR Country Code": "THA",
-  "local": "[15870032,100992541]"
- },
- {
-  "EDGAR Country Code": "GMB",
-  "local": "[13443182,-15310139]"
- },
- {
-  "EDGAR Country Code": "TLS",
-  "local": "[-8874217,125727539]"
- },
- {
-  "EDGAR Country Code": "TGO",
-  "local": "[8619543,0.824782]"
- },
- {
-  "EDGAR Country Code": "TON",
-  "local": "[-21178986,-175198242]"
- },
- {
-  "EDGAR Country Code": "TTO",
-  "local": "[10691803,-61222503]"
- },
- {
-  "EDGAR Country Code": "TUN",
-  "local": "[33886917,9537499]"
- },
- {
-  "EDGAR Country Code": "TUR",
-  "local": "[38963745,35243322]"
- },
- {
-  "EDGAR Country Code": "TKM",
-  "local": "[38969719,59556278]"
- },
- {
-  "EDGAR Country Code": "TCA",
-  "local": "[21694025,-71797928]"
- },
- {
-  "EDGAR Country Code": "UGA",
-  "local": "[1373333,32290275]"
- },
- {
-  "EDGAR Country Code": "UKR",
-  "local": "[48379433,3116558]"
- },
- {
-  "EDGAR Country Code": "ARE",
-  "local": "[23424076,53847818]"
- },
- {
-  "EDGAR Country Code": "GBR",
-  "local": "[55378051,-3435973]"
- },
- {
-  "EDGAR Country Code": "USA",
-  "local": "[3709024,-95712891]"
- },
- {
-  "EDGAR Country Code": "URY",
-  "local": "[-32522779,-55765835]"
- },
- {
-  "EDGAR Country Code": "UZB",
-  "local": "[41377491,64585262]"
- },
- {
-  "EDGAR Country Code": "VUT",
-  "local": "[-15376706,166959158]"
- },
- {
-  "EDGAR Country Code": "VEN",
-  "local": "[642375,-6658973]"
- },
- {
-  "EDGAR Country Code": "VNM",
-  "local": "[14058324,108277199]"
- },
- {
-  "EDGAR Country Code": "ESH",
-  "local": "[24215527,-12885834]"
- },
- {
-  "EDGAR Country Code": "YEM",
-  "local": "[15552727,48516388]"
- },
- {
-  "EDGAR Country Code": "ZMB",
-  "local": "[-13133897,27849332]"
- },
- {
-  "EDGAR Country Code": "ZWE",
-  "local": "[-19015438,29154857]"
+  "Continente": "Western_Africa",
+  "ctotal": 6562056.254334184
  }
 ]
 }
