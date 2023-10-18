@@ -1,0 +1,850 @@
+{
+	"conti": [
+		{
+			"Continente": "Africa",
+			"ctotal": 41237109.98475119
+		},
+		{
+			"Continente": "Asia",
+			"ctotal": 559040862.5302212
+		},
+		{
+			"Continente": "Europe",
+			"ctotal": 245698797.26019466
+		},
+		{
+			"Continente": "North America",
+			"ctotal": 297113494.76027083
+		},
+		{
+			"Continente": "Oceania",
+			"ctotal": 16443449.473073203
+		},
+		{
+			"Continente": "South America",
+			"ctotal": 41620326.09487722
+		}
+	],
+	"paises": {
+		"Africa": [
+			{
+				"pais": "Algeria",
+				"ptotal": 4111484.9911615197
+			},
+			{
+				"pais": "Angola",
+				"ptotal": 816136.0574561523
+			},
+			{
+				"pais": "Benin",
+				"ptotal": 102465.31460846
+			},
+			{
+				"pais": "Botswana",
+				"ptotal": 153909.38486
+			},
+			{
+				"pais": "Burkina Faso",
+				"ptotal": 53027.64713957499
+			},
+			{
+				"pais": "Burundi",
+				"ptotal": 10780.670840274
+			},
+			{
+				"pais": "Cameroon",
+				"ptotal": 242845.406541771
+			},
+			{
+				"pais": "Cape Verde",
+				"ptotal": 16548.645385342
+			},
+			{
+				"pais": "Central African Republic",
+				"ptotal": 12099.588176097903
+			},
+			{
+				"pais": "Chad",
+				"ptotal": 16993.472948797233
+			},
+			{
+				"pais": "Comoros",
+				"ptotal": 4158.110465633
+			},
+			{
+				"pais": "Congo",
+				"ptotal": 192468.238682712
+			},
+			{
+				"pais": "Congo_the Democratic Republic of the",
+				"ptotal": 149422.28844807498
+			},
+			{
+				"pais": "Cote d'Ivoire",
+				"ptotal": 273672.560100132
+			},
+			{
+				"pais": "Djibouti",
+				"ptotal": 45426.209962165995
+			},
+			{
+				"pais": "Egypt",
+				"ptotal": 5895077.82876486
+			},
+			{
+				"pais": "Equatorial Guinea",
+				"ptotal": 119216.95559757596
+			},
+			{
+				"pais": "Eritrea",
+				"ptotal": 26295.434798812
+			},
+			{
+				"pais": "Ethiopia",
+				"ptotal": 224701.160444437
+			},
+			{
+				"pais": "Gabon",
+				"ptotal": 277431.17171049997
+			},
+			{
+				"pais": "Gambia",
+				"ptotal": 12249.0618170477
+			},
+			{
+				"pais": "Ghana",
+				"ptotal": 309579.955389111
+			},
+			{
+				"pais": "Guinea",
+				"ptotal": 69061.26606634
+			},
+			{
+				"pais": "Guinea-Bissau",
+				"ptotal": 10135.835091185
+			},
+			{
+				"pais": "Kenya",
+				"ptotal": 401402.82089908
+			},
+			{
+				"pais": "Lesotho",
+				"ptotal": 13240.111672513
+			},
+			{
+				"pais": "Liberia",
+				"ptotal": 42544.94472496001
+			},
+			{
+				"pais": "Libyan Arab Jamahiriya",
+				"ptotal": 1991163.0665333197
+			},
+			{
+				"pais": "Madagascar",
+				"ptotal": 85180.67571656343
+			},
+			{
+				"pais": "Malawi",
+				"ptotal": 50000.92503251336
+			},
+			{
+				"pais": "Mali",
+				"ptotal": 49659.991372330005
+			},
+			{
+				"pais": "Mauritania",
+				"ptotal": 74083.25464028305
+			},
+			{
+				"pais": "Mauritius",
+				"ptotal": 92901.06677160002
+			},
+			{
+				"pais": "Morocco",
+				"ptotal": 1529473.3114151903
+			},
+			{
+				"pais": "Mozambique",
+				"ptotal": 145208.45005079202
+			},
+			{
+				"pais": "Namibia",
+				"ptotal": 107518.75778809
+			},
+			{
+				"pais": "Niger",
+				"ptotal": 49041.65783184899
+			},
+			{
+				"pais": "Nigeria",
+				"ptotal": 4195104.628379122
+			},
+			{
+				"pais": "Reunion",
+				"ptotal": 76171.654630428
+			},
+			{
+				"pais": "Rwanda",
+				"ptotal": 25610.420970185896
+			},
+			{
+				"pais": "Sao Tome and Principe",
+				"ptotal": 3142.8658253561
+			},
+			{
+				"pais": "Senegal",
+				"ptotal": 201833.16254609395
+			},
+			{
+				"pais": "Seychelles",
+				"ptotal": 26638.283866799306
+			},
+			{
+				"pais": "Sierra Leone",
+				"ptotal": 34073.316986641315
+			},
+			{
+				"pais": "Somalia",
+				"ptotal": 36950.96948718013
+			},
+			{
+				"pais": "South Africa",
+				"ptotal": 16490729.416081969
+			},
+			{
+				"pais": "Sudan",
+				"ptotal": 410138.20257164206
+			},
+			{
+				"pais": "Tanzania_United Republic of",
+				"ptotal": 204849.81258474608
+			},
+			{
+				"pais": "Togo",
+				"ptotal": 55355.02432482802
+			},
+			{
+				"pais": "Tunisia",
+				"ptotal": 841440.6570820641
+			},
+			{
+				"pais": "Uganda",
+				"ptotal": 88589.06430884
+			},
+			{
+				"pais": "Western Sahara",
+				"ptotal": 8724.4642949
+			},
+			{
+				"pais": "Zambia",
+				"ptotal": 165190.20668272898
+			},
+			{
+				"pais": "Zimbabwe",
+				"ptotal": 595961.543222
+			}
+		],
+		"Asia": [
+			{
+				"pais": "Afghanistan",
+				"ptotal": 159322.207280465
+			},
+			{
+				"pais": "Armenia",
+				"ptotal": 507094.29876233503
+			},
+			{
+				"pais": "Azerbaijan",
+				"ptotal": 2003885.3854786064
+			},
+			{
+				"pais": "Bahrain",
+				"ptotal": 809226.0860681299
+			},
+			{
+				"pais": "Bangladesh",
+				"ptotal": 1418181.4453278887
+			},
+			{
+				"pais": "Bhutan",
+				"ptotal": 18716.112348304
+			},
+			{
+				"pais": "Cambodia",
+				"ptotal": 116474.34922076899
+			},
+			{
+				"pais": "China",
+				"ptotal": 226554164.79730645
+			},
+			{
+				"pais": "Georgia",
+				"ptotal": 935111.714608822
+			},
+			{
+				"pais": "India",
+				"ptotal": 46209762.427026
+			},
+			{
+				"pais": "Indonesia",
+				"ptotal": 12021048.84617226
+			},
+			{
+				"pais": "Iran, Islamic Republic of",
+				"ptotal": 15524514.624092894
+			},
+			{
+				"pais": "Iraq",
+				"ptotal": 4214417.17722869
+			},
+			{
+				"pais": "Israel",
+				"ptotal": 2202190.8930414706
+			},
+			{
+				"pais": "Japan",
+				"ptotal": 55471607.65826924
+			},
+			{
+				"pais": "Jordan",
+				"ptotal": 665614.5946855219
+			},
+			{
+				"pais": "Kazakhstan",
+				"ptotal": 10352150.17713233
+			},
+			{
+				"pais": "Korea, Democratic People's Republic of",
+				"ptotal": 4198350.415499607
+			},
+			{
+				"pais": "Korea, Republic of",
+				"ptotal": 17412568.331818473
+			},
+			{
+				"pais": "Kuwait",
+				"ptotal": 2695518.2321761376
+			},
+			{
+				"pais": "Kyrgyzstan",
+				"ptotal": 643008.7810919159
+			},
+			{
+				"pais": "Lao People's Democratic Republic",
+				"ptotal": 123323.41864066289
+			},
+			{
+				"pais": "Lebanon",
+				"ptotal": 647859.2963442119
+			},
+			{
+				"pais": "Malaysia",
+				"ptotal": 5360657.448130759
+			},
+			{
+				"pais": "Maldives",
+				"ptotal": 22437.204481896
+			},
+			{
+				"pais": "Mongolia",
+				"ptotal": 561653.829016944
+			},
+			{
+				"pais": "Myanmar",
+				"ptotal": 434440.8275297088
+			},
+			{
+				"pais": "Nepal",
+				"ptotal": 133712.66976113
+			},
+			{
+				"pais": "Oman",
+				"ptotal": 1491028.9913478247
+			},
+			{
+				"pais": "Pakistan",
+				"ptotal": 4413724.737801722
+			},
+			{
+				"pais": "Papua New Guinea",
+				"ptotal": 151908.9052352997
+			},
+			{
+				"pais": "Philippines",
+				"ptotal": 3082993.8492314657
+			},
+			{
+				"pais": "Qatar",
+				"ptotal": 1828237.881991453
+			},
+			{
+				"pais": "Russian Federation",
+				"ptotal": 87820632.58764464
+			},
+			{
+				"pais": "Saudi Arabia",
+				"ptotal": 13251975.490139069
+			},
+			{
+				"pais": "Singapore",
+				"ptotal": 1585537.174186287
+			},
+			{
+				"pais": "Sri Lanka",
+				"ptotal": 452952.10444765905
+			},
+			{
+				"pais": "Syrian Arab Republic",
+				"ptotal": 1606078.5230000133
+			},
+			{
+				"pais": "Tajikistan",
+				"ptotal": 340815.63995767036
+			},
+			{
+				"pais": "Thailand",
+				"ptotal": 6750332.9594702395
+			},
+			{
+				"pais": "Timor-Leste",
+				"ptotal": 25223.469095471595
+			},
+			{
+				"pais": "Turkey",
+				"ptotal": 9339097.446798692
+			},
+			{
+				"pais": "Turkmenistan",
+				"ptotal": 2073042.36052359
+			},
+			{
+				"pais": "United Arab Emirates",
+				"ptotal": 4584245.646107782
+			},
+			{
+				"pais": "Uzbekistan",
+				"ptotal": 4907222.20342502
+			},
+			{
+				"pais": "Viet Nam",
+				"ptotal": 3346395.576337699
+			},
+			{
+				"pais": "Yemen",
+				"ptotal": 572403.7349380341
+			}
+		],
+		"Europe": [
+			{
+				"pais": "Albania",
+				"ptotal": 251408.17930499397
+			},
+			{
+				"pais": "Austria",
+				"ptotal": 3231962.169397007
+			},
+			{
+				"pais": "Belarus",
+				"ptotal": 3816824.790425309
+			},
+			{
+				"pais": "Belgium",
+				"ptotal": 5902305.644134756
+			},
+			{
+				"pais": "Bosnia and Herzegovina",
+				"ptotal": 880254.9955800896
+			},
+			{
+				"pais": "Bulgaria",
+				"ptotal": 3235521.7986405506
+			},
+			{
+				"pais": "Croatia",
+				"ptotal": 1130024.03133157
+			},
+			{
+				"pais": "Cyprus",
+				"ptotal": 257042.50322135995
+			},
+			{
+				"pais": "Czech Republic",
+				"ptotal": 7426417.233246253
+			},
+			{
+				"pais": "Denmark",
+				"ptotal": 2708888.986834955
+			},
+			{
+				"pais": "Estonia",
+				"ptotal": 1249447.2528106223
+			},
+			{
+				"pais": "Faroe Islands",
+				"ptotal": 73.49131336500001
+			},
+			{
+				"pais": "Finland",
+				"ptotal": 2717650.9700367274
+			},
+			{
+				"pais": "France",
+				"ptotal": 20158003.390604123
+			},
+			{
+				"pais": "Germany",
+				"ptotal": 47058871.552580036
+			},
+			{
+				"pais": "Gibraltar",
+				"ptotal": 13454.18608456
+			},
+			{
+				"pais": "Greece",
+				"ptotal": 3592270.8633306585
+			},
+			{
+				"pais": "Greenland",
+				"ptotal": 8801.099150828999
+			},
+			{
+				"pais": "Hungary",
+				"ptotal": 3322089.512636742
+			},
+			{
+				"pais": "Iceland",
+				"ptotal": 137301.06959859817
+			},
+			{
+				"pais": "Ireland",
+				"ptotal": 1701187.5366782537
+			},
+			{
+				"pais": "Italy",
+				"ptotal": 19983412.656521674
+			},
+			{
+				"pais": "Latvia",
+				"ptotal": 645188.4974902658
+			},
+			{
+				"pais": "Lithuania",
+				"ptotal": 1049112.6624985237
+			},
+			{
+				"pais": "Luxembourg",
+				"ptotal": 569375.7921443831
+			},
+			{
+				"pais": "Macedonia, the former Yugoslav Republic of",
+				"ptotal": 468412.20211751526
+			},
+			{
+				"pais": "Malta",
+				"ptotal": 93063.38294334298
+			},
+			{
+				"pais": "Moldova, Republic of",
+				"ptotal": 817406.8260831739
+			},
+			{
+				"pais": "Netherlands",
+				"ptotal": 8088439.367147121
+			},
+			{
+				"pais": "Norway",
+				"ptotal": 2013004.83145528
+			},
+			{
+				"pais": "Poland",
+				"ptotal": 17888071.682628453
+			},
+			{
+				"pais": "Portugal",
+				"ptotal": 2152007.0101926834
+			},
+			{
+				"pais": "Romania",
+				"ptotal": 6733896.026907586
+			},
+			{
+				"pais": "Serbia and Montenegro",
+				"ptotal": 2916778.540520695
+			},
+			{
+				"pais": "Slovakia",
+				"ptotal": 2308948.5881559798
+			},
+			{
+				"pais": "Slovenia",
+				"ptotal": 710683.3968310484
+			},
+			{
+				"pais": "Spain",
+				"ptotal": 12331345.997536179
+			},
+			{
+				"pais": "Sweden",
+				"ptotal": 3132847.518535812
+			},
+			{
+				"pais": "Switzerland",
+				"ptotal": 2152386.1675192057
+			},
+			{
+				"pais": "Ukraine",
+				"ptotal": 25317332.885852642
+			},
+			{
+				"pais": "United Kingdom",
+				"ptotal": 27527281.9701717
+			}
+		],
+		"North America": [
+			{
+				"pais": "Canada",
+				"ptotal": 24231556.088339027
+			},
+			{
+				"pais": "Mexico",
+				"ptotal": 16540286.83383303
+			},
+			{
+				"pais": "United States",
+				"ptotal": 256341651.83809876
+			}
+		],
+		"Oceania": [
+			{
+				"pais": "Australia",
+				"ptotal": 14783686.758634413
+			},
+			{
+				"pais": "Cook Islands",
+				"ptotal": 2249.911531006
+			},
+			{
+				"pais": "Fiji",
+				"ptotal": 58312.77452351492
+			},
+			{
+				"pais": "French Polynesia",
+				"ptotal": 31571.286593769993
+			},
+			{
+				"pais": "Kiribati",
+				"ptotal": 1572.7533023129997
+			},
+			{
+				"pais": "New Caledonia",
+				"ptotal": 111547.04497421997
+			},
+			{
+				"pais": "New Zealand",
+				"ptotal": 1334053.465966925
+			},
+			{
+				"pais": "Palau",
+				"ptotal": 97078.40061361066
+			},
+			{
+				"pais": "Samoa",
+				"ptotal": 6991.686473859999
+			},
+			{
+				"pais": "Solomon Islands",
+				"ptotal": 7549.807890529002
+			},
+			{
+				"pais": "Tonga",
+				"ptotal": 3845.0586012539993
+			},
+			{
+				"pais": "Vanuatu",
+				"ptotal": 4990.523967786
+			}
+		],
+		"South America": [
+			{
+				"pais": "Anguilla",
+				"ptotal": 584.28294548084
+			},
+			{
+				"pais": "Antigua and Barbuda",
+				"ptotal": 21497.5079805267
+			},
+			{
+				"pais": "Argentina",
+				"ptotal": 6774060.253412749
+			},
+			{
+				"pais": "Aruba",
+				"ptotal": 28676.514496534084
+			},
+			{
+				"pais": "Bahamas",
+				"ptotal": 144338.15331963502
+			},
+			{
+				"pais": "Barbados",
+				"ptotal": 60875.735045660105
+			},
+			{
+				"pais": "Belize",
+				"ptotal": 15283.323714439002
+			},
+			{
+				"pais": "Bermuda",
+				"ptotal": 25915.357053833
+			},
+			{
+				"pais": "Bolivia",
+				"ptotal": 453263.39535272797
+			},
+			{
+				"pais": "Brazil",
+				"ptotal": 14710586.008895421
+			},
+			{
+				"pais": "Brunei Darussalam",
+				"ptotal": 227639.892753434
+			},
+			{
+				"pais": "Cayman Islands",
+				"ptotal": 14400.679592919
+			},
+			{
+				"pais": "Chile",
+				"ptotal": 2299299.0220496305
+			},
+			{
+				"pais": "Colombia",
+				"ptotal": 2730754.2078841096
+			},
+			{
+				"pais": "Costa Rica",
+				"ptotal": 224057.94607743298
+			},
+			{
+				"pais": "Cuba",
+				"ptotal": 1422218.09303649
+			},
+			{
+				"pais": "Dominica",
+				"ptotal": 4314.025077894999
+			},
+			{
+				"pais": "Dominican Republic",
+				"ptotal": 653148.7164954771
+			},
+			{
+				"pais": "Ecuador",
+				"ptotal": 1066689.16007395
+			},
+			{
+				"pais": "El Salvador",
+				"ptotal": 220417.49354734007
+			},
+			{
+				"pais": "Falkland Islands (Malvinas)",
+				"ptotal": 1082.351838892
+			},
+			{
+				"pais": "French Guiana",
+				"ptotal": 24682.45908609
+			},
+			{
+				"pais": "Grenada",
+				"ptotal": 6731.22151033
+			},
+			{
+				"pais": "Guadeloupe",
+				"ptotal": 66295.13058052999
+			},
+			{
+				"pais": "Guatemala",
+				"ptotal": 381636.56053917104
+			},
+			{
+				"pais": "Guyana",
+				"ptotal": 61923.89578948871
+			},
+			{
+				"pais": "Haiti",
+				"ptotal": 76346.13643808998
+			},
+			{
+				"pais": "Honduras",
+				"ptotal": 230347.82667704002
+			},
+			{
+				"pais": "Jamaica",
+				"ptotal": 389565.37960384897
+			},
+			{
+				"pais": "Martinique",
+				"ptotal": 69364.37041913971
+			},
+			{
+				"pais": "Nicaragua",
+				"ptotal": 157360.41656537904
+			},
+			{
+				"pais": "Panama",
+				"ptotal": 263489.728037495
+			},
+			{
+				"pais": "Paraguay",
+				"ptotal": 163214.76322286396
+			},
+			{
+				"pais": "Peru",
+				"ptotal": 1449210.09622007
+			},
+			{
+				"pais": "Puerto Rico",
+				"ptotal": 88578.16783816699
+			},
+			{
+				"pais": "Saint Kitts and Nevis",
+				"ptotal": 5457.867232293001
+			},
+			{
+				"pais": "Saint Lucia",
+				"ptotal": 10609.6611740192
+			},
+			{
+				"pais": "Saint Pierre and Miquelon",
+				"ptotal": 5328.119783872598
+			},
+			{
+				"pais": "Saint Vincent and the Grenadines",
+				"ptotal": 5323.092352953599
+			},
+			{
+				"pais": "Suriname",
+				"ptotal": 77271.36156484098
+			},
+			{
+				"pais": "Trinidad and Tobago",
+				"ptotal": 940583.0633051698
+			},
+			{
+				"pais": "Turks and Caicos Islands",
+				"ptotal": 2766.4313776699996
+			},
+			{
+				"pais": "Uruguay",
+				"ptotal": 273875.5890376549
+			},
+			{
+				"pais": "Venezuela",
+				"ptotal": 5767626.9027151
+			},
+			{
+				"pais": "Virgin Islands_British",
+				"ptotal": 3635.7331613690003
+			}
+		]
+	}
+}
